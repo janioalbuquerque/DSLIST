@@ -17,7 +17,17 @@ Os usuários podem realizar pesquisas com base no gênero e na classificação d
 - `POST list replacement`: Organiza a lista como o usuário preferir
 
 ## Retorno da API
-![App Screenshot](https://uploaddeimagens.com.br/imagens/Z_VREcA)
+#### Game
+![App Screenshot](https://raw.githubusercontent.com/janioalbuquerque/dslist/master/src/assets/retorno_api%20end_point_games.png)
+
+#### Game By Id
+![App Screenshot](https://raw.githubusercontent.com/janioalbuquerque/dslist/master/src/assets/retorno_api%20end_point_game_by_id.png)
+
+#### Game Lists
+![App Screenshot](https://raw.githubusercontent.com/janioalbuquerque/dslist/master/src/assets/retorno_api%20end_point_game_list.png)
+
+#### Game By Lists
+![App Screenshot](https://raw.githubusercontent.com/janioalbuquerque/dslist/master/src/assets/retorno_api%20end_point_game_by_list.png)
 
 # Tecnologias utilizadas
 
